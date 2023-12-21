@@ -4,6 +4,10 @@
 ### Skip build folder ###
 build/
 
+### Skip generated test files ###
+*[0-9]TestProject/
+
+
 ### Linux ###
 *~
 
